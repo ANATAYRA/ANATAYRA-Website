@@ -1,2 +1,3 @@
-# ANATAYRA-Website
-ANATAYRA Studio website repository (https://anatayra.studio).
+👋 Hello!
+
+Welcome to the ANATAYRA Studio website repository (https://anatayra.studio).
